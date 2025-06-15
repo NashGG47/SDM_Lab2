@@ -1,0 +1,6 @@
+tail_id,score,tail_label,title,model
+9307,-8.426815032958984,<http://example.org/inst/Paper_136>,Classes of Terminating Logic Programs,TransE
+10140,-9.247422218322754,<http://example.org/inst/Paper_887>,Geoscience laser altimeter system (GLAS) on the ICESat mission: pre-launch and on-orbit measurement performance.,TransE
+9717,-9.279505729675293,<http://example.org/inst/Paper_505>,Towards Deep Conversational Recommendations.,TransE
+10031,-9.309480667114258,<http://example.org/inst/Paper_789>,Evaluation of SPOT/HRV data over temporal series acquired during the ADAM project.,TransE
+9713,-9.340935707092285,<http://example.org/inst/Paper_501>,Image registration using AutoLandmark.,TransE

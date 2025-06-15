@@ -1,0 +1,4 @@
+silhouette_score,avg_intra_distance,avg_inter_distance,model
+0.024951892,1.2945243,1.4325218,TransE
+-0.08198044,3.0264702,3.2657027,RotatE
+0.0035797183,13.778532,13.788535,ComplEx

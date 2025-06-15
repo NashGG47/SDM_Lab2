@@ -1,0 +1,21 @@
+tail_id,score,tail_label,title,model
+9846,13.891155242919922,<http://example.org/inst/Paper_621>,Pointwise approach on covariance matrix of oriented gradients for very high resolution image texture segmentation.,ComplEx
+10138,12.881502151489258,<http://example.org/inst/Paper_885>,Peer-to-Peer Protocol for Allocated Resources in Vehicular Cloud Based on V2V Communication.,ComplEx
+9541,12.596187591552734,<http://example.org/inst/Paper_347>,An Improved Multi-Sensor MTI Time-Series Fusion Method to Monitor the Subsidence of Beijing Subway Network during the Past 15 Years.,ComplEx
+9782,12.272226333618164,<http://example.org/inst/Paper_564>,Microwave snow emission modeling of boreal forest environments.,ComplEx
+10125,12.02676486968994,<http://example.org/inst/Paper_873>,Optimal Sparsity-Sensitive Bounds for Distributed Mean Estimation.,ComplEx
+9927,-3.618222713470459,<http://example.org/inst/Paper_695>,On the implementation of a secure musical database matching.,RotatE
+9314,-3.695719957351685,<http://example.org/inst/Paper_142>,Comparison of Area-Based and Individual Tree-Based Methods for Predicting Plot-Level Forest Attributes.,RotatE
+9860,-3.734002113342285,<http://example.org/inst/Paper_634>,Audio-video terminal system-on-chip simulation.,RotatE
+10235,-3.7581963539123535,<http://example.org/inst/Paper_972>,A dynamically reconfigurable system-on-a-chip architecture for future mobile digital signal processing.,RotatE
+10014,-3.7928290367126474,<http://example.org/inst/Paper_773>,Extraction of complex object contour by particle filtering.,RotatE
+9307,-8.426815032958984,<http://example.org/inst/Paper_136>,Classes of Terminating Logic Programs,TransE
+10140,-9.247422218322754,<http://example.org/inst/Paper_887>,Geoscience laser altimeter system (GLAS) on the ICESat mission: pre-launch and on-orbit measurement performance.,TransE
+9717,-9.279505729675291,<http://example.org/inst/Paper_505>,Towards Deep Conversational Recommendations.,TransE
+10031,-9.309480667114258,<http://example.org/inst/Paper_789>,Evaluation of SPOT/HRV data over temporal series acquired during the ADAM project.,TransE
+9713,-9.340935707092283,<http://example.org/inst/Paper_501>,Image registration using AutoLandmark.,TransE
+9941,-1.0509111881256104,<http://example.org/inst/Paper_707>,Visualisation of videoconference image sequences using VRML 2.0.,TransH
+9483,-1.207249641418457,<http://example.org/inst/Paper_295>,Cloud Computing Through Mobile-Learning,TransH
+9383,-1.209888935089111,<http://example.org/inst/Paper_204>,First-Order Tests for Toricity.,TransH
+9983,-1.2640821933746338,<http://example.org/inst/Paper_745>,Ground deformation retrieval of urban and suburb areas based on multi-baseline DInSAR algorithm: A case study in Cangzhou City (China).,TransH
+9720,-1.2935041189193726,<http://example.org/inst/Paper_508>,"Wavelets, filterbanks, and the Karhunen-Loève transform.",TransH

@@ -1,0 +1,4 @@
+model,input_paper,predicted_cited_paper,predicted_author
+TransE,<http://example.org/inst/Paper_0>,<http://example.org/inst/Paper_0>,<http://example.org/inst/Paper_0>
+RotatE,<http://example.org/inst/Paper_0>,<http://example.org/inst/Authorship_240614>,<http://example.org/inst/Authorship_240614>
+ComplEx,<http://example.org/inst/Paper_0>,<http://example.org/inst/Paper_0>,<http://example.org/inst/Paper_0>
